@@ -25,3 +25,15 @@ The individual projects focus on applying Artificial Intelligence techniques to 
   - Advanced semantic network querying with complex inheritance rules.
   - Bayesian network reasoning and independence testing.
   - Efficient constraint satisfaction with higher-order constraints.
+
+---
+
+## Bookmarks
+
+### **Project 1: Private Repository**
+
+- [Project 1 Repository](https://github.com/detiuaveiro/ia2025-tpi-1-tomasf18)
+
+### **Project 2: Private Repository**
+
+- [Project 2 Repository](https://github.com/detiuaveiro/tpi-2-2025-tomasf18)
